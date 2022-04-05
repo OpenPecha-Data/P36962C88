@@ -1,0 +1,29 @@
+id: P36962C88
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1CZ2486
+  instance_id: http://purl.bdrc.io/resource/IE1CZ2486
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གནས་ཆེན་རྫོང་ཤོད་བདེ་གཤེགས་འདུས་པའི་ཕོ་བྲང་ཆེན་མོའི་རྟེན་དང་བརྟེན་པའི་བྱུང་བ་རགས་བསྡུས་སྐལ་བཟང་དད་པའི་གསོས་སྨན།
+  alt_title: {}
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    e602edd7e6b14d58a117021d028b9583:
+      title: པོད ༡་གནས་ཆེན་རྫོང་ཤོད་བདེ་གཤེགས་འདུས་པའི་ཕོ་བྲང་ཆེན་མོའི་རྟེན་དང་བརྟེན་པའི་བྱུང་བ་རགས་བསྡུས་སྐལ་བཟང་དད་པའི་གསོས་སྨན
+      volume_number: 1
+      base_file: UT1CZ2486_I1CZ2497_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD9BA32314793F042
+      image_group: I1CZ2497
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1CZ2486
+  - http://purl.bdrc.io/resource/W1CZ2486
+  ocr_software: Namsel
+created_at: '2021-12-22T10:25:40.495824'
+last_modified_at: '2021-12-22T10:25:40.495831'
